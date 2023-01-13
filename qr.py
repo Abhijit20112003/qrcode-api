@@ -14,3 +14,5 @@ def qr_code():
  # Send the QR code image as the API response
      return send_file(buf, mimetype='image/png')
 
+if __name__ == '__main__':
+        app.run()
