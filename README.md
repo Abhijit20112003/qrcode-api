@@ -21,3 +21,6 @@ The QR code API will return a QR code image in PNG format. The response will als
 If there is an error with your request, the API will return a JSON object with an error message.
 
 # Additional Parameters
+
+size : This parameter can be used to set the size of the generated QR code. The default size is 300x300.
+color : This parameter can be used to set the color of the QR code in hex format. The default color is black.
