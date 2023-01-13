@@ -11,3 +11,4 @@ def qr_code():
      buf = BytesIO()
      img.save(buf, 'PNG')
       buf.seek(0)
+ # Send the QR code image as the API response
