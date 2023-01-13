@@ -19,3 +19,5 @@ The QR code API will return a QR code image in PNG format. The response will als
 # Error Handling
 
 If there is an error with your request, the API will return a JSON object with an error message.
+
+# Additional Parameters
