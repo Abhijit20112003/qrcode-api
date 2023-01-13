@@ -24,3 +24,7 @@ If there is an error with your request, the API will return a JSON object with a
 
 size : This parameter can be used to set the size of the generated QR code. The default size is 300x300.
 color : This parameter can be used to set the color of the QR code in hex format. The default color is black.
+
+# Conclusion
+
+The QR Code API makes it easy to generate QR codes for a variety of payloads. With a simple RESTful API, you can easily create QR codes for text, URLs, phone numbers, and more.
