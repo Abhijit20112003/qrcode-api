@@ -10,3 +10,4 @@ def qr_code():
 # Save the QR code image
      buf = BytesIO()
      img.save(buf, 'PNG')
+      buf.seek(0)
