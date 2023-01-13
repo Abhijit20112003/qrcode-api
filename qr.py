@@ -7,5 +7,6 @@ app = Flask(__name__)
 def qr_code():
     url = request.args.get('url')
     img = qrcode.make(url)
-
+# Save the QR code image
      buf = BytesIO()
+    
