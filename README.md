@@ -15,3 +15,5 @@ The QR Code API has the following endpoints:
 # Response
 
 The QR code API will return a QR code image in PNG format. The response will also include a header Content-Type: image/png
+
+# Error Handling
