@@ -5,3 +5,4 @@ import io
 app = Flask(__name__)
 
 def qr_code():
+    url = request.args.get('url')
