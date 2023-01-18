@@ -27,4 +27,4 @@ color : This parameter can be used to set the color of the QR code in hex format
 
 # Conclusion
 
-The QR Code API makes it easy to generate QR codes for a variety of payloads. With a simple RESTful API, you can easily create QR codes for text, URLs, phone numbers, and more.
+The QR Code API makes it easy to generate QR codes for a variety of payloads. With a simple RESTful API, you can easily create QR codes for text, URLs, phone numbers, and more api is live rapid api.
